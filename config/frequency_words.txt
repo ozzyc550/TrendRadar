@@ -1,93 +1,76 @@
-胖东来
-于东来
+人工智能 
+AI
+机器人
+具身智能
+Robot
+自动驾驶
 
-DeepSeek
-梁文锋
+谷歌
+Google
+DeepMind
+Gemini
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+ChatGPT
+OpenAI
+codex
 
-比亚迪
-王传福
+微软
+Microsoft
+CPU
+
+英伟达
+Nvidia
+RTX
+AMD
+CPU
+GPU
 
 大疆
 DJI
 
+小米
+YU7
+SU7
+雷军
+
+比亚迪
+王传福
+BYD
+仰望
+腾势
+
+DeepSeek
+梁文锋
+
 宇树
 王兴兴
+Unitree
 
 智元
-灵犀
+AgiBot
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
+华为
+鸿蒙
+HarmonyOS
 
 字节
-bytedance
-张一鸣
-
 特斯拉
+Tesla
 马斯克
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
+Claude
 Anthropic
 
+Grok
+xAI
+
 iphone
+airpods
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
 
 美国
 日本
@@ -96,18 +79,20 @@ ai
 芯片
 光刻机
 
-科技
+vibe coding
+cursor
+!光标
+!指针
 
-核能
+Figure
++Robot
 
-水电站
-雅鲁藏布江
+银河通用
+星海图
+Physical Intelligence
 
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+VLA
+RL
+强化学习
+模仿学习
+深度学习
